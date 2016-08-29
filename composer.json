@@ -1,0 +1,20 @@
+{
+    "name": "sunnysideup/payment_omnipay",
+    "type": "silverstripe-module",
+    "description": "to be completed ",
+
+    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "authors": [
+        {
+            "name": "Nicolaas Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~2.4"
+    },
+    "extra": {
+        "installer-name": "payment_omnipay"
+    }
+}
