@@ -2,7 +2,6 @@
     "name": "sunnysideup/payment_omnipay",
     "type": "silverstripe-module",
     "description": "to be completed ",
-
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
         {
@@ -12,9 +11,15 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     },
     "extra": {
         "installer-name": "payment_omnipay"
-    }
+    },
+    "keywords": [
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe"
+    ]
 }
