@@ -2,7 +2,7 @@
     "name": "sunnysideup/payment_omnipay",
     "type": "silverstripe-module",
     "description": "to be completed ",
-    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Nicolaas Francken",
